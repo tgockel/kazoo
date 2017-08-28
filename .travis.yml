@@ -27,7 +27,7 @@ matrix:
   - python: '2.7'
     env: ZOOKEEPER_VERSION=3.4.10 TOX_VENV=py27-eventlet
   - python: '2.7'
-    env: ZOOKEEPER_VERSION=3.5.2-alpha TOX_VENV=py27
+    env: ZOOKEEPER_VERSION=3.5.3-beta TOX_VENV=py27
   - python: '3.4'
     env: ZOOKEEPER_VERSION=3.3.6 TOX_VENV=py34
   - python: '3.4'
